@@ -242,35 +242,35 @@
     <text>As soon as is practically possible after a missing person is located or returned, the TMBCI LEA shall cancel the entry from the NCIC database.</text>
     <text>In the event a missing person is found and identified as murdered, the TMBCI LEA shall enter the information into the FBI's National Incident-Based Reporting System (NIBRS) and other appropriate criminal databases. If the information is entered into a federal criminal database, the party's Tribal affiliation shall be included.</text>
   </procedural-data>
-  <codify:insert after="63">
+  <codify:insert after="63" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64">
     <container>
       <prefix>Title</prefix>
       <num>64</num>
       <heading>Missing and Murdered Persons (Children and Adults) Law</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.01">
     <container>
       <prefix>Chapter</prefix>
       <num>64.01</num>
       <heading>Purpose</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.01">
+  <codify:insert path="64.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.01.010">
     <section>
       <num>64.01.010</num>
       <heading>Purpose</heading>
       <text>The Turtle Mountain Band of Chippewa establishes a Missing and Murdered Person's Law to aid in searches, advocate, and coordinate services for Missing and Murdered Indigenous Peoples and the families of missing and murdered relatives.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.02">
     <container>
       <prefix>Chapter</prefix>
       <num>64.02</num>
       <heading>Definitions</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.02">
+  <codify:insert path="64.02" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.02.010">
     <section>
       <num>64.02.010</num>
       <heading>Definitions</heading>
@@ -348,7 +348,7 @@
       </para>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03">
     <container>
       <prefix>Chapter</prefix>
       <num>64.03</num>
@@ -367,7 +367,7 @@
       <text>The TMBCI LEA shall accept a report of a missing child even if custody has not been formally established. Reporting parties shall be encouraged to obtain legal custody as soon as possible; however, since the safety of the missing child(ren) is paramount, a case will be opened when it can be shown the child has been removed, without explanation, from his or her usual place of residence. If custody has not been established by the Court, law enforcement's only responsibility is to ensure the child is safe.</text>
     </container>
   </codify:insert>
-  <codify:insert path="64.03">
+  <codify:insert path="64.03" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03.010">
     <section>
       <num>64.03.010</num>
       <heading>Computer equipment and programs</heading>
@@ -375,42 +375,42 @@
       <text>The Chief of Police shall also provide a system for tribal, regional, statewide, multistate, and nationwide broadcasts of information on missing and murdered persons. These broadcasts shall be made by tribal law enforcement agencies where possible or, in the case of statewide or nationwide broadcasts, by the North Dakota Agency of Emergency Services (NDDES) upon request of the local LEA.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.03">
+  <codify:insert path="64.03" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03.020">
     <section>
       <num>64.03.020</num>
       <heading>Authority to enter or retrieve information.</heading>
       <text>Only the TMBCI LEA, or other law enforcement agency with appropriate jurisdiction, may enter missing and murdered person information into the NCIC computer or retrieve information from the NCIC database.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.03">
+  <codify:insert path="64.03" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03.030">
     <section>
       <num>64.03.030</num>
       <heading>Statistical data</heading>
       <text>The Chief of Police shall annually compile and make available statistical information on the number of missing and murdered persons entered into the NCIC database and information on the number of missing persons located.  An annual report shall be submitted to the Turtle Mountain Band of Chippewa Chairperson and Tribal Council before the end of each calendar year.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.03">
+  <codify:insert path="64.03" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03.040">
     <section>
       <num>64.03.040</num>
       <heading>Rules</heading>
       <text>The Chief of Police may adopt rules in conformance with this Title to provide for the orderly collection and entry of missing and murdered person's information and requests for the retrieval of missing and murdered person's information.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.03">
+  <codify:insert path="64.03" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.03.050">
     <section>
       <num>64.03.050</num>
       <heading>Cooperation with other agencies.</heading>
       <text>The Chief of Police shall cooperate with other tribes, counties, states, and federal agencies, including but not limited to the Bureau of Indian Affairs, the Federal Bureau of Investigation, the United States Marshal's Service, and other federal agencies with law enforcement responsibilities, in the exchange of information on missing and murdered persons.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.04">
     <container>
       <prefix>Chapter</prefix>
       <num>64.04</num>
       <heading>Missing Person Report; Duties of the Chief of Police and Law Enforcement Agency</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.04">
+  <codify:insert path="64.04" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.04.010">
     <section>
       <num>64.04.010</num>
       <heading>Initial Report, entry of information, and initial response and investigation.</heading>
@@ -434,7 +434,7 @@
       <text>If the person is determined to be missing, the TMBCI LEA shall enter identifying and descriptive information about the person into the National Crime Information Center (NCIC) data system within the first two hours of receipt of the initial report. If the missing person is between the ages of 18-64 years old and meets applicable criteria, identifying and descriptive information shall be provided to the federal government's Ashanti Alert system within the first two hours of receipt of the initial report. If the missing person is a child or an elder, identifying and descriptive information will also be provided to the state AMBER or Silver Alert systems within the first two hours of receipt of the initial report.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.04">
+  <codify:insert path="64.04" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.04.020">
     <section>
       <num>64.04.020</num>
       <heading>Investigation.</heading>
@@ -446,14 +446,14 @@
       </text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.05">
     <container>
       <prefix>Chapter</prefix>
       <num>64.05</num>
       <heading>Additional Information</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.05">
+  <codify:insert path="64.05" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.05.010">
     <section>
       <num>64.05.010</num>
       <heading>Additional Information</heading>
@@ -468,28 +468,28 @@
       </text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.06">
     <container>
       <prefix>Chapter</prefix>
       <num>64.06</num>
       <heading>Missing Child Cases</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.06">
+  <codify:insert path="64.06" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.06.010">
     <section>
       <num>64.06.010</num>
       <heading>Missing Child Cases</heading>
       <text>Consistent with 34 U.S.C.A. § 41307, the TMBCI LEA shall report each case involving a missing child under the age of 21 years old to the National Center for Missing and Exploited Children (NCMEC). The TMBCI LEA shall enter the information into the NCIC and NamUs databases.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07">
     <container>
       <prefix>Chapter</prefix>
       <num>64.07</num>
       <heading>Missing Person Bulletin</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.07">
+  <codify:insert path="64.07" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07.010">
     <section>
       <num>64.07.010</num>
       <heading>Public Data</heading>
@@ -504,7 +504,7 @@
       </text>
     </section>
   </codify:insert>
-  <codify:insert path="64.07">
+  <codify:insert path="64.07" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07.020">
     <section>
       <num>64.07.020</num>
       <heading>Bulletin</heading>
@@ -512,14 +512,14 @@
       <text>Any identifying information on missing persons entered into the NCIC database, regarding cases that are still active at the time the missing person's bulletin is compiled, may be included in the bulletin.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.07">
+  <codify:insert path="64.07" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07.030">
     <section>
       <num>64.07.030</num>
       <heading>Photograph</heading>
       <text>Local agencies shall obtain the most recent photograph available of the missing person and forward those photographs to the Chief of Police. The Chief of Police shall include these photographs in the bulletins as they become available.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.07">
+  <codify:insert path="64.07" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07.040">
     <section>
       <num>64.07.040</num>
       <heading>Distribution</heading>
@@ -527,21 +527,21 @@
       <text>The TMBCI Missing and Murdered Indigenous People's (MMIP) Chapter Board of Directors, a working group, or a Board appointed committee shall comply with existing laws and regulations regarding the limitations on confidential investigation reports, including medical information or case information identified as confidential. Only documents that are not subject to confidentiality shall be provided to the Board of Directors.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64.07">
+  <codify:insert path="64.07" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.07.050">
     <section>
       <num>64.07.050</num>
       <heading>Included with mailing</heading>
       <text>Tribal elected officials and local agencies may enclose in their mailing any information regarding missing persons obtained from law enforcement agencies or any organization recognized as a nonprofit, tax-exempt organization under state or federal law with an ongoing missing and murdered person program. Elected officials and directors of tribal agencies are urged to enclose missing person information in mailings when it will not increase postage costs and is otherwise considered appropriate.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.08">
     <container>
       <prefix>Chapter</prefix>
       <num>64.08</num>
       <heading>Training</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.08">
+  <codify:insert path="64.08" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.08.010">
     <section>
       <num>64.08.010</num>
       <heading>Training</heading>
@@ -549,14 +549,14 @@
       <text>The Chief of Police shall provide technical assistance and training to tribal law enforcement officials to gain access and input authority to utilize the National Criminal Information Center (NCIC) and other national crime information databases consistent with the NCIC requirements for access and use of the system.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.09">
     <container>
       <prefix>Chapter</prefix>
       <num>64.09</num>
       <heading>Standardized Reports and Procedures</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.09">
+  <codify:insert path="64.09" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.09.010">
     <section>
       <num>64.09.010</num>
       <heading>Standardized Reports and Procedures</heading>
@@ -570,28 +570,28 @@
       </text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.10">
     <container>
       <prefix>Chapter</prefix>
       <num>64.10</num>
       <heading>Jurisdiction for Missing Report</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.10">
+  <codify:insert path="64.10" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.10.010">
     <section>
       <num>64.10.010</num>
       <heading>Jurisdiction for Missing Report</heading>
       <text>Jurisdictional conflicts are to be avoided when a person is reported missing. If a missing person either resides in or was last seen in the TMBCI's jurisdiction, the TMBCI LEA will immediately initiate the required reporting process. If a person resides in the TMBCI's jurisdiction and was last seen in another jurisdiction, and upon confirmation that the law enforcement agency covering that jurisdiction chooses not to take a missing-person report, the TMBCI LEA will assume reporting and investigative responsibility.</text>
     </section>
   </codify:insert>
-  <codify:insert path="64">
+  <codify:insert path="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.11">
     <container>
       <prefix>Chapter</prefix>
       <num>64.11</num>
       <heading>Location of a Missing Person</heading>
     </container>
   </codify:insert>
-  <codify:insert path="64.11">
+  <codify:insert path="64.11" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|64.11.010">
     <section>
       <num>64.11.010</num>
       <heading>Location of a Missing Person</heading>
