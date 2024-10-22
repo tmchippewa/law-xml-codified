@@ -895,7 +895,7 @@
         <text>Manner of Service; By whom served.</text>
         <para>
           <num>(1)</num>
-          <text>Service of summons or process and the petition shall be made by process server as appointed by the Court.</text>
+          <text>Service of summons or process and the petition shall be made by process server, who is at least 18 years of age and not a party to nor interested in the action.</text>
         </para>
         <para>
           <num>(2)</num>
@@ -927,6 +927,7 @@
       </para>
       <annotations>
         <annotation type="Prior Codifications">§5.02.050 was formerly codified as 5.0205</annotation>
+        <annotation app="2024-05-06" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1166-04-24" eff="2024-05-06" path="" type="History"/>
       </annotations>
     </section>
     <section>
