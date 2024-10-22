@@ -51,7 +51,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="50.02.060">
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="50.02.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|50.02.060">
     <section>
       <num>50.02.060</num>
       <heading>Manager of the Human Resources Department</heading>
