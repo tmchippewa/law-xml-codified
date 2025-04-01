@@ -51,7 +51,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02.050|(d)|(1)">
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="5.02.050|(d)|(1)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|5.02.050|(d)|(1)">
     <para>
       <num>(1)</num>
       <text>Service of summons or process and the petition shall be made by process server, who is at least 18 years of age and not a party to nor interested in the action.</text>
