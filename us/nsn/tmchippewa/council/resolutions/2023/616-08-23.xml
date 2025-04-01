@@ -48,19 +48,19 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace path="|25.01.010|(a)|(2)">
+  <codify:replace path="|25.01.010|(a)|(2)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(2)">
     <para>
       <num>(2)</num>
-      <text>Within ninety (90) days of approval of this Restated <cite path="25">Title 25</cite> by the Indian Gaming Commission pursuant to the Indian Gaming Regulatory Act (IGRA), the Tribal Council shall appoint the initial chairman to a two (2)-year term ending in December of 2021; and</text>
+      <text>Within ninety (90) days of approval of this Restated <cite path="25" doc="Turtle Mountain Band of Chippewa Indians Res. No. 616-08-23">Title 25</cite> by the Indian Gaming Commission pursuant to the Indian Gaming Regulatory Act (IGRA), the Tribal Council shall appoint the initial chairman to a two (2)-year term ending in December of 2021; and</text>
     </para>
   </codify:replace>
-  <codify:replace path="|25.01.010|(a)|(3)">
+  <codify:replace path="|25.01.010|(a)|(3)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(3)">
     <para>
       <num>(3)</num>
       <text>The remaining members to a two-year term ending in December of each even numbered year end; and</text>
     </para>
   </codify:replace>
-  <codify:replace path="|25.01.010|(a)|(4)">
+  <codify:replace path="|25.01.010|(a)|(4)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|25.01.010|(a)|(4)">
     <para>
       <num>(4)</num>
       <text>Thereafter, the Tribal Council shall appoint by resolution, the chairman and associate Commissioners to terms of two (2) years.</text>
