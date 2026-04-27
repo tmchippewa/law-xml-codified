@@ -51,7 +51,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace path="19.01.050|(e)">
+  <codify:replace path="19.01.050|(e)" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|19.01.050|(e)">
     <para>
       <num>(e)</num>
       <text>Specialty license at an annual fee of four hundred dollars ($400) for beer, and five hundred dollars ($500) per year to sell beer and wine.</text>
