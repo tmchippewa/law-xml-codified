@@ -59,7 +59,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060">
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|38.02.060">
     <section>
       <num>38.02.060</num>
       <heading>Reckless Driving; Aggravated Reckless Driving; Penalty</heading>
@@ -97,11 +97,11 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280">
+  <codify:replace doc="Turtle Mountain Band of Chippewa Indians Tribal Code" path="38.02.280" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|38.02.280">
     <section>
       <num>38.02.280</num>
       <heading>Fleeing or Attempting to Elude a Peace Officer</heading>
-      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop. A signal complies with <cite path="38.02.280">this section</cite> if the signal is perceptible to the driver and:</text>
+      <text>Any driver of a motor vehicle who willfully fails or refuses to bring the vehicle to a stop, or who otherwise flees or attempts to elude, in any manner, a pursuing police vehicle or peace officer, when given a visual or audible signal to bring the vehicle to a stop. A signal complies with <cite path="38.02.280" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1523-09-24">this section</cite> if the signal is perceptible to the driver and:</text>
       <para>
         <num>(a)</num>
         <text>If given from a vehicle, the signal is given by hand, voice, emergency light, or siren, and the stopping vehicle is appropriately marked showing it to be an official police vehicle; or</text>
