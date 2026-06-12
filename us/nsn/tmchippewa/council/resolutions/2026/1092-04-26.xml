@@ -51,14 +51,14 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:insert after="64">
+  <codify:insert after="64" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65">
     <container>
       <prefix>Title</prefix>
       <num>65</num>
       <heading>Emergency Management Response Act</heading>
     </container>
   </codify:insert>
-  <codify:insert path="65">
+  <codify:insert path="65" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01">
     <container>
       <prefix>Chapter</prefix>
       <num>65.01</num>
@@ -70,25 +70,25 @@
     <heading>Emergency Management Response Act</heading>
     <heading>TURTLE MOUNTAIN BAND OF CHIPPEWA INDIANS EMERGENCY MANAGEMENT RESPONSE ACT</heading>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.010"/>
       <num codify:value="65.01.010">I.</num>
       <heading codify:value="Title and Codification">TITLE AND CODIFICATION</heading>
       <text/>
-      <text><code-cite path="|attachments|law">This Act</code-cite> shall be known as the Turtle Mountain Band of Chippewa Indians Emergency Management Response Act.</text>
+      <text><code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">This Act</code-cite> shall be known as the Turtle Mountain Band of Chippewa Indians Emergency Management Response Act.</text>
     </para>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.020"/>
       <num codify:value="65.01.020">II.</num>
       <heading codify:value="Authorization">AUTHORIZATION</heading>
       <text/>
       <text><cite doc="Turtle Mountain Constitution and By-laws" path="IX">Article IX</cite>, Sections (a) (2-6) of the <cite doc="Turtle Mountain Constitution and By-laws">Turtle Mountain Band of Chippewa Indians Constitution</cite> ("Constitution") grants the Tribal Council the power to make laws, including codes, ordinances, resolutions, and statutes.</text>
     </para>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.030"/>
       <num codify:value="65.01.030">III.</num>
       <heading codify:value="Purpose and Intent">PURPOSE AND INTENT</heading>
       <text/>
-      <text>The purpose and intent of <code-cite path="|attachments|law">this Act</code-cite> is to provide for the preparation and implementation of a comprehensive Tribal Emergency Management Plan to mitigate, prepare for, respond to, and recover from injury and damage to persons or property resulting from emergencies or disasters.</text>
+      <text>The purpose and intent of <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">this Act</code-cite> is to provide for the preparation and implementation of a comprehensive Tribal Emergency Management Plan to mitigate, prepare for, respond to, and recover from injury and damage to persons or property resulting from emergencies or disasters.</text>
     </para>
     <para>
       <num>IV.</num>
@@ -98,7 +98,7 @@
       <text class="text-indent-1">(b)	The Emergency Management Department is responsible for enforcing this title.</text>
       <text class="text-indent-1">(c)	The Tribe creates the Position of Emergency Manager of the TMBCI Emergency Management Department who shall oversee the administration of this title and the staff of the Department.</text>
       <text class="text-indent-1">(d)	The Emergency Manager shall be directly accountable to the Chairman and/or designee.</text>
-      <codify:insert path="|65.01">
+      <codify:insert path="|65.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.040">
         <section>
           <num>65.01.040</num>
           <heading>Authorization and Creation of an Emergency Management Department</heading>
@@ -131,7 +131,7 @@
         <text>“TMBCI TRIBAL FACILITIES” means all buildings, structures or other areas used for the operation of the Turtle Mountain Tribal government or Tribally-owned businesses, enterprises, or services located on or off TMBCI Tribal Lands. </text>
         <text>“TMBCI TRIBAL LANDS” means all lands over which the Tribe exercises jurisdiction, including but not limited to, its Reservation, other lands held in trust for the Tribe by the United States, and all of the Tribe’s “Indian Country” as defined by 18 U.S.C. § 1151, including but not limited to lands owned in fee by the Tribe wherever located.</text>
         <text>“TRIBE” means the Turtle Mountain Band of Chippewa Indians (TMBCI).</text>
-        <codify:insert path="|65.01">
+        <codify:insert path="|65.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.050">
           <section>
             <num>65.01.050</num>
             <heading>Definitions</heading>
@@ -163,7 +163,7 @@
           <num>(d)</num>
           <text>The Tribal Emergency Management Plan shall be subject to the approval of the TMBCI Tribal Council. Once approved by the TMBCI Tribal Council, the Tribal Emergency Management Plan shall govern and control all emergency management response to a disaster or emergency by the Tribe.</text>
         </para>
-        <codify:insert path="|65.01">
+        <codify:insert path="|65.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.060">
           <section>
             <num>65.01.060</num>
             <heading>Tribal Emergency Management Plan</heading>
@@ -229,7 +229,7 @@
             <text>To ensure the continuity of the TMBCI Tribal Council.</text>
           </para>
         </para>
-        <codify:insert path="|65.01">
+        <codify:insert path="|65.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.070">
           <section>
             <num>65.01.070</num>
             <heading>Emergency Management Function; Emergency Powers of the Chairperson</heading>
@@ -329,7 +329,7 @@
           <text class="text-indent-3">Manages the TMBCI Tribal Skywarn Storm Watch program that provides information about pending storm conditions. Will assist with conducting an annual National Oceanic and Atmospheric Administration (NOAA)/ National Weather Service (NWS) Skywarn storm spotter training session within the community and help to recruit and train for the storm spotter network. Complete requirements and application renewal for NOAA Storm Ready.</text>
         </para>
       </para>
-      <codify:insert path="|65.01">
+      <codify:insert path="|65.01" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.080">
         <section>
           <num>65.01.080</num>
           <heading>Emergency Manager</heading>
@@ -386,25 +386,25 @@
       </codify:insert>
     </para>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.090"/>
       <num codify:value="65.01.090">V.</num>
       <heading codify:value="Severability">SEVERABILITY</heading>
       <text/>
-      <text>If any provision of <code-cite path="|attachments|law">this Act</code-cite>, or the application thereof, is ruled unconstitutional, or in the event of a court finding of invalidity of any word, phrase, paragraph, or section of <code-cite path="|attachments|law">this Act</code-cite>, such invalid word, phrase, paragraph, or section shall be severed from the remaining body of <code-cite path="|attachments|law">the Act</code-cite>, and the remainder of <code-cite path="|attachments|law">the Act</code-cite> shall remain in full force and effect.</text>
+      <text>If any provision of <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">this Act</code-cite>, or the application thereof, is ruled unconstitutional, or in the event of a court finding of invalidity of any word, phrase, paragraph, or section of <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">this Act</code-cite>, such invalid word, phrase, paragraph, or section shall be severed from the remaining body of <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">the Act</code-cite>, and the remainder of <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">the Act</code-cite> shall remain in full force and effect.</text>
     </para>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.100"/>
       <num codify:value="65.01.100">VI.</num>
       <heading codify:value="Sovereign Immunity">SOVEREIGN IMMUNITY </heading>
       <text/>
-      <text>Nothing within <code-cite path="|attachments|law">this Act</code-cite> shall be deemed a waiver of the Tribe's sovereign immunity.</text>
+      <text>Nothing within <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">this Act</code-cite> shall be deemed a waiver of the Tribe's sovereign immunity.</text>
     </para>
     <para codify:tag="section">
-      <codify:insert/>
+      <codify:insert codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|65.01.110"/>
       <num codify:value="65.01.110">VII.</num>
       <heading codify:value="Amendment">AMENDMENT</heading>
       <text/>
-      <text>Any amendment to <code-cite path="|attachments|law">this Act</code-cite> will be effective upon enactment by the TMBCI Tribal Council.</text>
+      <text>Any amendment to <code-cite path="|attachments|law" doc="Turtle Mountain Band of Chippewa Indians Res. No. 1092-04-26">this Act</code-cite> will be effective upon enactment by the TMBCI Tribal Council.</text>
     </para>
   </attachment>
 </document>
