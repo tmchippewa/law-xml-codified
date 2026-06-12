@@ -55,7 +55,7 @@
     <text>_____________________________</text>
     <text>Jamie Azure, Tribal Chairman</text>
   </procedural-data>
-  <codify:replace path="2.14.010">
+  <codify:replace path="2.14.010" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.010">
     <section>
       <num>2.14.010</num>
       <heading>Qualifications to Admission</heading>
@@ -93,14 +93,14 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="2.14.020">
+  <codify:replace path="2.14.020" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.020">
     <section>
       <num>2.14.020</num>
       <heading>Filing Fee</heading>
       <text>A filing fee shall accompany each application for admission to the bar which shall be set by the regulating body.</text>
     </section>
   </codify:replace>
-  <codify:replace path="2.14.050">
+  <codify:replace path="2.14.050" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.050">
     <section>
       <num>2.14.050</num>
       <heading>Disbarment</heading>
@@ -134,7 +134,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="2.14.060">
+  <codify:replace path="2.14.060" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.060">
     <section>
       <num>2.14.060</num>
       <heading>Prosecuting Attorneys and Defense Attorneys</heading>
@@ -148,7 +148,7 @@
       </para>
     </section>
   </codify:replace>
-  <codify:replace path="2.14.070">
+  <codify:replace path="2.14.070" codified:doc="Turtle Mountain Band of Chippewa Indians Tribal Code" codified:path="|2.14.070">
     <section>
       <num>2.14.070</num>
       <heading>Council Members Shall Not Practice as Attorneys or Advocates before the Turtle Mountain Court System</heading>
